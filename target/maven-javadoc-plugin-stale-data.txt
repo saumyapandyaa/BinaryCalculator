@@ -1,0 +1,47 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/pandy/OneDrive/Desktop/saumya/uni/year 3/win 24/sq+pm/lab1/BinaryCalculator/target/BinaryCalculator-1.0.0.jar;C:/Users/pandy/OneDrive/Desktop/saumya/uni/year 3/win 24/sq+pm/lab1/BinaryCalculator/target/classes;C:/Users/pandy/OneDrive/Desktop/saumya/uni/year 3/win 24/sq+pm/lab1/BinaryCalculator/target/test-classes;C:/Users/pandy/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.11.0/junit-jupiter-api-5.11.0.jar;C:/Users/pandy/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar;C:/Users/pandy/.m2/repository/org/junit/platform/junit-platform-commons/1.11.0/junit-platform-commons-1.11.0.jar;C:/Users/pandy/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar;C:/Users/pandy/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.11.0/junit-jupiter-params-5.11.0.jar;C:/Users/pandy/.m2/repository/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/Users/pandy/OneDrive/Desktop/saumya/uni/year 3/win 24/sq+pm/lab1/BinaryCalculator/src/test/java;C:/Users/pandy/OneDrive/Desktop/saumya/uni/year 3/win 24/sq+pm/lab1/BinaryCalculator/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/pandy/OneDrive/Desktop/saumya/uni/year 3/win 24/sq+pm/lab1/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'C:/Users/pandy/OneDrive/Desktop/saumya/uni/year 3/win 24/sq+pm/lab1/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
+'C:/Users/pandy/OneDrive/Desktop/saumya/uni/year 3/win 24/sq+pm/lab1/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java'
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\src\test\java = 1737499681973
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\target\generated-test-sources\test-annotations = 1738103792163
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\target\site\testapidocs\allclasses-index.html = 1738103797615
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\target\site\testapidocs\allpackages-index.html = 1738103797620
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\target\site\testapidocs\element-list = 1738103797534
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\target\site\testapidocs\help-doc.html = 1738103797704
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\target\site\testapidocs\index-all.html = 1738103797689
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\target\site\testapidocs\index.html = 1738103797697
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\target\site\testapidocs\member-search-index.js = 1738103797633
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\target\site\testapidocs\module-search-index.js = 1738103797624
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1738103797593
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\target\site\testapidocs\package-search-index.js = 1738103797627
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\target\site\testapidocs\search.html = 1738103797693
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\target\site\testapidocs\tag-search-index.js = 1738103797636
+C:\Users\pandy\OneDrive\Desktop\saumya\uni\year 3\win 24\sq+pm\lab1\BinaryCalculator\target\site\testapidocs\type-search-index.js = 1738103797629
